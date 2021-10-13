@@ -2,7 +2,7 @@
 # Language (Optional)
 lang: en
 # Site Keywords & Description
-keywords: Resume,Hexo,Yuying Ning
+keywords: Resume,Yuying Ning
 # description: This is a cool resume theme for hexo.
 # Resume Title
 resume_title: Yuying Ning's Resume
@@ -13,7 +13,7 @@ avatar: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/a
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: yuyingning
+    text: yuyingning.github.io
     url: https://yuyingning.github.io
   # Email
   - icon: fas fa-envelope
@@ -34,9 +34,9 @@ download:
   url: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/Resume.pdf
 ---
 
-## <i class="fas fa-user-graduate"></i> EDUCATION
+## <i class="fas fa-user-graduate"></i> EDUCATION
 
-#### 09/2018-06/2022: ANHUI UNIVERSITY
+#### 09/2018 - 06/2022: ANHUI UNIVERSITY
 
 ##### THE PEOPLE’S REPUBLIC OF CHINA&nbsp;&nbsp;&nbsp;&nbsp;HEFEI, ANHUI
 
@@ -53,13 +53,13 @@ download:
 ## <i class="far fa-newspaper"></i> PAPERS
 
 > **Polypyrrole Reinforced N, S-doping Graphene Foam for Efficient Solar Purification of Wastewater**
-> &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Solar RRL_ in May 2021(ISSN 2367-198X)
+> &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Solar RRL_ in May 2021(ISSN 2367-198X, DOI: 10.1002/solr.202100210)
 
 > **Solar Evaporation Performance of Nano-CuS Supported by Flexible Porous Silicon Rubber**
 > &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Materials Review_ (ISSN 1005-023X) in March 2021.
 
 > **Synthesis of Hollow Copper Sulfide Nanocubes with Low Emissivity for Highly Efficient Solar Steam Generation**
-> &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Solar Energy Materials and Solar Cells_ (ISSN 0927-0248) in March 2020.
+> &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Solar Energy Materials and Solar Cells_ (ISSN 0927-0248) in March 2020. (DIO: 10.1016/j.solmat.2020.110484)
 
 ## <i class="fas fa-file-word"></i> PATENT
 
@@ -69,7 +69,7 @@ download:
 
 ## <i class="fas fa-search"></i> RESEARCH EXPERIENCE
 
-#### Independent Researcher The Photothermal Conversion of Ricepaperplant Pith
+#### _Independent Researcher_ The Photothermal Conversion of Ricepaperplant Pith
 
 <br/>
 <div style="text-align: right; font-weight: bold;">09/2020 - Present</div>
@@ -78,10 +78,9 @@ download:
 
 * Carried out the salting-out test of sea water and explored the salting-out resistance of this material structure.
 
-* Did performance test and characterization of carbonized tetrapanaxpapyrifer, such as SEM diagram, XRD and
-contact angle test.
+* Did performance test and characterization of carbonized tetrapanaxpapyrifer, such as SEM diagram, XRD and contact angle test.
 
-#### Member The Synthesis of N, S-Go & N, S-Go/ PPY Foam to Purify Heavy Metal Ions in Sewage
+#### _Core Member_ The Synthesis of N, S-Go & N, S-Go/ PPY Foam to Purify Heavy Metal Ions in Sewage
 
 <br/>
 <div style="text-align: right; font-weight: bold;">09/2019 - 01/2020</div>
@@ -92,7 +91,7 @@ contact angle test.
 
 * Conducted the sewage purification test, and found that this material can reduce some heavy metal ions, so as to achieve the purification of sewage.
 
-#### Core Member The Synthesis & Photothermal Performance Test of Hollow Copper Sulfide
+#### _Member_ The Synthesis & Photothermal Performance Test of Hollow Copper Sulfide
 
 <br/>
 <div style="text-align: right; font-weight: bold;">04/2019 - 08/2019</div>
