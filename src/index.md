@@ -2,198 +2,163 @@
 # Language (Optional)
 lang: en
 # Site Keywords & Description
-keywords: Resume,Hexo,Resume Theme
-description: This is a cool resume theme for hexo.
+keywords: Resume,Hexo,Yuying Ning
+# description: This is a cool resume theme for hexo.
 # Resume Title
-resume_title: Jon Snow's Resume
+resume_title: Yuying Ning's Resume
 # Job Applicant Name
-name: Jon Snow
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+name: Yuying Ning
+avatar: https://github.com/YuyingNing/resume-docs/blob/master/assets/apple-touch-icon.png
 # Contact
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: https://resume.js.org
-    url: https://resume.js.org
+    text: yuyingning
+    url: https://yuyingning.github.io
   # Email
   - icon: fas fa-envelope
-    text: your email
-    url:
+    text: YuyingNing23@Gmail.com
+    url: mailto:YuyingNing23@Gmail.com
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 1xxxxxxxxxx
-    url: tel:10086
+    text: +86-15205606171
+    url: tel:+86-15205606171
+  # Address
+  - icon: fas fa-map-marker-alt
+    text: Anhui University, Jiulong Rd, Shushan District,Hefei, Anhui, China,230601
+    url:
 # PDF Download Link
 download:
-  title: Download
+  title: PDF Resume
   icon: fas fa-download fa-fw
-  url: https://github.com/xaoxuu/resume-docs
+  url: https://github.com/YuyingNing/resume-docs/blob/master/Resume.pdf
 ---
 
-{% raw %}
-<center>
-<a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a>
-</center>
-{% endraw %}
+## <i class="fas fa-user-graduate"></i> EDUCATION
 
+#### 09/2018-06/2022: ANHUI UNIVERSITY
 
-## <i class="fas fa-flag"></i> Getting Started
+##### THE PEOPLE’S REPUBLIC OF CHINA&nbsp;&nbsp;&nbsp;&nbsp;HEFEI, ANHUI
 
-Please directly download the source code of this site and refer to the source code for rewriting.
+* **Major**: New Energy Materials and Devices
 
-- Site Source code: https://github.com/xaoxuu/resume-docs
-- Theme source code: https://github.com/xaoxuu/hexo-theme-resume
+* **Degree**: Bachelor of Engineering
 
+* **Related Courses**: Introduction for New Energy, Organic Chemistry Experiment I, Engineering Drawing and CAD, Solid State Physics, Fundamental of Material Engineering, Fundamental of Material Science, Theoretical Electrochemistry etc.
 
-## <i class="fas fa-user-graduate"></i> Education
+## <i class="fas fa-flag"></i> QUALIFICATION
 
-**XX University X College X Course X Major X Graduation**
+* A detail-oriented individual with the basic ability of developing new energy materials, researching new technology, and improving material properties. Familiar with Python, C programming language etc.
 
+## <i class="far fa-newspaper"></i> PAPERS
 
-## <i class="fas fa-user-tie"></i> Work Experience
+> **Polypyrrole Reinforced N, S-doping Graphene Foam for Efficient Solar Purification of Wastewater**
+> &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Solar RRL_ in May 2021(ISSN 2367-198X)
 
+> **Solar Evaporation Performance of Nano-CuS Supported by Flexible Porous Silicon Rubber**
+> &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Materials Review_ (ISSN 1005-023X) in March 2021.
 
-#### 2000 ~ Present: Company XX
+> **Synthesis of Hollow Copper Sulfide Nanocubes with Low Emissivity for Highly Efficient Solar Steam Generation**
+> &nbsp;&nbsp;&nbsp;&nbsp;- Published at _Solar Energy Materials and Solar Cells_ (ISSN 0927-0248) in March 2020.
 
-- Mainly responsible for XXX
+## <i class="fas fa-file-word"></i> PATENT
 
-#### 1900 ~ 2000: Company XX
+**Solar Water Purifier Based on Interfacial Solar Photothermal Conversion** _(Patent No.: 202010106056.0)_
 
-- Mainly responsible for XXX
+<div style="text-align: right; font-weight: bold;">02/2020</div>
 
-#### 1800 ~ 1900: company XX
+## <i class="fas fa-search"></i> RESEARCH EXPERIENCE
 
-- Mainly responsible for XXX
+#### Independent Researcher The Photothermal Conversion of Ricepaperplant Pith
 
+<br/>
+<div style="text-align: right; font-weight: bold;">09/2020 - Present</div>
 
+* Coated carbonized tetrapanaxpapyrifer with PVA, and optimized the two structures for cyclic test experiments.
 
-## <i class="fas fa-award"></i> Featured Projects
+* Carried out the salting-out test of sea water and explored the salting-out resistance of this material structure.
 
+* Did performance test and characterization of carbonized tetrapanaxpapyrifer, such as SEM diagram, XRD and
+contact angle test.
 
-{% raw %}
-<btns rounded>
-<a href='https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/heartmate/icon.png'>
-  心率管家
-</a>
-<a href='https://apps.apple.com/cn/app/c%E5%85%BB%E8%80%81/id1458315594'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-cyanglao/icon.png'>
-  C养老
-</a>
-<a href='https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-clife/icon.png'>
-  C-Life养老
-</a>
-<a href='https://apps.apple.com/cn/app/linksmart/id1109303355'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-linksmart/icon.png'>
-  LinkSmart
-</a>
-<a href='https://apps.apple.com/cn/app/hitfit/id1207738581'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-hitfit/icon.png'>
-  HitFit
-</a>
-<a href='https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD%E5%8A%A9%E6%89%8B/id1138242219'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-fiyta/icon.png'>
-  飞亚达腕能助手
-</a>
-</btns><br>
-{% endraw %}
+#### Member The Synthesis of N, S-Go & N, S-Go/ PPY Foam to Purify Heavy Metal Ions in Sewage
 
+<br/>
+<div style="text-align: right; font-weight: bold;">09/2019 - 01/2020</div>
 
-### Project A
+* Synthesized N, S-GO and N, S-GO/ PPY foams by hydrothermal method.
 
-#### 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
+* Improved the photothermal conversion performance of the material by adding PPY.
 
-啦啦啦
+* Conducted the sewage purification test, and found that this material can reduce some heavy metal ions, so as to achieve the purification of sewage.
 
-### Project B
+#### Core Member The Synthesis & Photothermal Performance Test of Hollow Copper Sulfide
 
-#### 1900/01 ~ 2000/01: Developed by XX company
+<br/>
+<div style="text-align: right; font-weight: bold;">04/2019 - 08/2019</div>
 
-啦啦啦
+* Synthesized hollow CuS nanocubes by sacrificial template method.
 
-### Project C
+* Used Cu2O as a template to prepare hollow CuS nanoparticles.
 
-#### 1800/01 ~ 1900/01: Developed by XX company
+* Prepared ultrafine practical CuS nanoparticles by precipitation method.
 
-啦啦啦
+* Made CuS sponge absorber.
 
-## <i class="fab fa-github"></i> Open Source Contributions
+## <i class="fas fa-shapes"></i> EXTRACURRICULAR ACTIVITIES
 
+* _Core Member,_ **Summer Social Practice Activities**
 
-### Volantis
+<p style="text-align: right;">07/2019 - Present</p>
 
-#### 2017 ~ Present, a wonderful blog theme for Hexo 4.2
+* _Team Leader,_ **Environmental Protection Public Welfare Activities**
 
-- 完全自由的模块化、易于定制化设计
-- 移动端优化
-- 源码：https://github.com/xaoxuu/hexo-theme-volantis
-- 官网：https://volantis.js.org/
+<p style="text-align: right;">04/2019 - Present</p>
 
-### ProHUD
+* _Organizer,_ **The Activity of Donating Idle Books**
 
-#### 2019/08 ~ present, HUD library with easy customization and simple interface
+<p style="text-align: right;">11/2018-Present</p>
 
-- 使用Swift5编写。
-- 包含顶部通知横幅、弹窗、底部操作表三种使用场景的UI控件。
-- 易于配置UI从而满足公司各业务线的UI要求，接口调用简单明了。
-- 源码：https://github.com/xaoxuu/ProHUD
+* _Core Member,_ **Publicity Department of School of Chemistry and Chemical Engineering**
 
-<fancybox>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot01.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot02.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot03.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot04.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot05.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot06.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot07.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot08.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot09.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot10.png'>
-</fancybox>
+<p style="text-align: right;">10/2018 - Present</p>
 
+* _Volunteer,_ **Anhui University Volunteers Association**
 
-## <i class="fas fa-phone-alt"></i> Contact
+<p style="text-align: right;">10/2018 - Present</p>
 
-目前状态为：在职，考虑换工作，100年内可到岗。
+* _Chemistry Teacher,_ **Chemistry Goes Into Community Activities**
 
-<i class="fas fa-envelope fa-fw"></i> your email
-<i class="fas fa-phone-alt fa-fw"></i> 1xxxxxxxxxx
+<p style="text-align: right;">10/2018 - Present</p>
 
+* _Core Member,_ **Guitar Club**
 
+<p style="text-align: right;">10/2018 - Present</p>
 
-## Theme Config
+* _Core Member,_ **F.A. Hip-hop Dance Club**
 
-```yaml
-cdn:
-  # These base libraries cannot be deleted
-  jquery: https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js
-  vue: https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.min.js
-  # When these CDN resources are deleted, local resources are loaded.
-  common: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/common.js
-  escape: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/css.escape.js
-  smooth_scroll: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/smooth-scroll.min.js
-  css: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/css/style.min.css
-  # Optional plug-in: image zoom
-  fancybox:
-    css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
-    js: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
+<p style="text-align: right;">10/2018 - Present</p>
 
-# robots meta tag
-robots: noindex,nofollow
+## <i class="fas fa-award"></i> HONORS & AWARDS
 
-# the footer of your site
-copyright: '[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)'
-```
+* **Excellent Conclusion of The Undergraduate Innovation and Entrepreneurship Training Program(3%)**&nbsp;&nbsp;_-- 06/2020_
 
-## Comments
+* **First Prize in Resume Making Competition(1%), Anhui University**&nbsp;&nbsp;_-- 12/2020_
 
-{% raw %}
-<script src="https://utteranc.es/client.js"
-        repo="xaoxuu/hexo-theme-resume"
-        issue-number="17"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-{% endraw %}
+* **Excellent Student Scholarship(1%), Anhui University**&nbsp;&nbsp;_-- 12/2020_
+
+* **Academic Science and Technology Scholarship(1%), Anhui University**&nbsp;&nbsp;_-- 12/2020_
+
+* **Cultural and Sports Activities Scholarship (2%), Anhui University**&nbsp;&nbsp;_-- 12/2019_
+
+* **Excellent Students in Virtue, Study and Physical Conditions (1%), Anhui University**&nbsp;&nbsp;_-- 12/2019_
+
+* **National Encouragement Scholarship(1%), Anhui University**&nbsp;&nbsp;_-- 11/2019_
+
+* **Winning Prize of College Students' Innovation & Entrepreneurship Competition (2%), Anhui University**&nbsp;&nbsp;_-- 11/2019_
+
+* **First Prize in The Competition of The Most Beautiful Chemistry Notes(1%), Anhui University**&nbsp;&nbsp;_-- 11/2019_
+
+* **First Prize of Women's Group in Winter Long-distance Race (1%), Anhui University**&nbsp;&nbsp;_-- 09/2019_
+
+* **Outstanding Worker of the Student Union(3%), Anhui University**&nbsp;&nbsp;_-- 05/2019_

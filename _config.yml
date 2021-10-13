@@ -1,19 +1,20 @@
 # Hexo Configuration
 
 # Site
-language: zh-CN
+language: en-US
 
-shortcut_icon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-favicon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+shortcut_icon: https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon-32x32.png
+favicon: https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon.ico
+avatar: https://github.com/YuyingNing/resume-docs/blob/master/assets/apple-touch-icon.png
 
 # 主题
 theme: resume
 theme_config:
   robots: index,follow
+  copyright: '[Copyright © 2021 Yuying Ning](/)'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://resume.js.org
+url: https://yuyingning.github.io
 # url: http://localhost:4000
 root: /
 permalink: posts/:title/
@@ -108,13 +109,13 @@ import:
   meta:
   - "<meta name='theme-color' content='#FFFFFF'>"
   - "<meta name='msapplication-TileColor' content='#1BC3FB'>"
-  - "<meta name='msapplication-config' content='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/browserconfig.xml'>"
+  - "<meta name='msapplication-config' content='hhttps://github.com/YuyingNing/resume-docs/blob/master/assets/browserconfig.xml'>"
   link:
-  - "<link rel='shortcut icon' type='image/x-icon' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/favicon.ico'>"
-  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/favicon-32x32.png'>"
-  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/apple-touch-icon.png'>"
-  - "<link rel='mask-icon' color='#1BC3FB' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/safari-pinned-tab.svg'>"
-  - "<link rel='manifest' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/site.webmanifest'>"
+  - "<link rel='shortcut icon' type='image/x-icon' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon.ico'>"
+  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon-32x32.png'>"
+  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/apple-touch-icon.png'>"
+  - "<link rel='mask-icon' color='#1BC3FB' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon-16x16.png'>"
+  - "<link rel='manifest' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/site.webmanifest'>"
   # script:
 
 # Offline
@@ -162,7 +163,7 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   - type: git
-    repo: https://github.com/xaoxuu/resume.js.org.git
+    repo: https://github.com/YuyingNing/resume-docs.git
     branch: master
     message: update pages
 
