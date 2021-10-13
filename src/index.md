@@ -8,7 +8,7 @@ keywords: Resume,Hexo,Yuying Ning
 resume_title: Yuying Ning's Resume
 # Job Applicant Name
 name: Yuying Ning
-avatar: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/apple-touch-icon.png
+avatar: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/android-chrome-512x512.png
 # Contact
 contact:
   # URL
