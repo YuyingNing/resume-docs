@@ -8,7 +8,7 @@ keywords: Resume,Hexo,Yuying Ning
 resume_title: Yuying Ning's Resume
 # Job Applicant Name
 name: Yuying Ning
-avatar: https://github.com/YuyingNing/resume-docs/blob/master/assets/apple-touch-icon.png
+avatar: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/apple-touch-icon.png
 # Contact
 contact:
   # URL
@@ -31,7 +31,7 @@ contact:
 download:
   title: PDF Resume
   icon: fas fa-download fa-fw
-  url: https://github.com/YuyingNing/resume-docs/blob/master/Resume.pdf
+  url: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/Resume.pdf
 ---
 
 ## <i class="fas fa-user-graduate"></i> EDUCATION

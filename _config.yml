@@ -3,9 +3,9 @@
 # Site
 language: en-US
 
-shortcut_icon: https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon-32x32.png
-favicon: https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon.ico
-avatar: https://github.com/YuyingNing/resume-docs/blob/master/assets/apple-touch-icon.png
+shortcut_icon: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/favicon-32x32.png
+favicon: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/favicon.ico
+avatar: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/apple-touch-icon.png
 
 # 主题
 theme: resume
@@ -109,13 +109,13 @@ import:
   meta:
   - "<meta name='theme-color' content='#FFFFFF'>"
   - "<meta name='msapplication-TileColor' content='#1BC3FB'>"
-  - "<meta name='msapplication-config' content='hhttps://github.com/YuyingNing/resume-docs/blob/master/assets/browserconfig.xml'>"
+  - "<meta name='msapplication-config' content='hhttps://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/browserconfig.xml'>"
   link:
-  - "<link rel='shortcut icon' type='image/x-icon' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon.ico'>"
-  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon-32x32.png'>"
-  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/apple-touch-icon.png'>"
-  - "<link rel='mask-icon' color='#1BC3FB' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/favicon-16x16.png'>"
-  - "<link rel='manifest' href='https://github.com/YuyingNing/resume-docs/blob/master/assets/site.webmanifest'>"
+  - "<link rel='shortcut icon' type='image/x-icon' href='https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/favicon.ico'>"
+  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/favicon-32x32.png'>"
+  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/apple-touch-icon.png'>"
+  - "<link rel='mask-icon' color='#1BC3FB' href='https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/favicon-16x16.png'>"
+  - "<link rel='manifest' href='https://raw.githubusercontent.com/YuyingNing/resume-docs/master/assets/site.webmanifest'>"
   # script:
 
 # Offline
