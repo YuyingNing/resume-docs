@@ -29,7 +29,7 @@ contact:
     url:
 # PDF Download Link
 download:
-  title: PDF Resume
+  title: PDF Resume Download
   icon: fas fa-download fa-fw
   url: https://raw.githubusercontent.com/YuyingNing/resume-docs/master/Resume.pdf
 ---
