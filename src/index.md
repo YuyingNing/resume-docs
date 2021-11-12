@@ -140,6 +140,8 @@ download:
 
 ## <i class="fas fa-award"></i> HONORS & AWARDS
 
+* **outstanding class cadre(5%), Anhui Univercity**&nbsp;&nbsp;_-- 11/2021_
+
 * **Excellent Conclusion of The Undergraduate Innovation and Entrepreneurship Training Program(3%)**&nbsp;&nbsp;_-- 06/2020_
 
 * **First Prize in Resume Making Competition(1%), Anhui University**&nbsp;&nbsp;_-- 12/2020_
